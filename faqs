@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="description" content="Trading Firm" />
 	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
-	<title>CS Capital | Home</title>
+	<title>CS Capital | FAQs</title>
 </head>
 <body>
 	<header>
@@ -19,31 +19,19 @@
 	</header>
 	<section>
 		<div>
-			<h1>Sé Un Trader Financiado</h1>
-			<h3>Prueba que eres consistente y podrás gestionar una cuenta financiada por nosotros.</h3>
-			<p>Temporalmente el programa de seguimiento sólo está disponible para nuestros aprendices.</p>
-			<p>Si ya sabes de trading, próximamente abriremos este programa para ti.</p>
-			<a href="Entrenamiento">Empieza</a>
-		</div>
-		<div>
-			<h2>¿Cómo Funciona?</h2>
+			<h1>Preguntas Frecuentes</h1>
 			<article>
-				<h1>1.</h1><h4>Demuestra que eres rentable</h4>
+				<h4>Demuestra que eres rentable</h4>
 				<p>Muestranos que puedes generar utilidades superiores al costo de operación estimado de la cuenta.</p>
 			</article>
 			<article>
-				<h1>2.</h1><h4>Demuestra que manejas el riesgo</h4>
+				<h4>Demuestra que manejas el riesgo</h4>
 				<p>Muestranos que respetas los márgenes y los límites de operación establecidos para administrar nuestras cuentas.</p>
 			</article>
 			<article>
-				<h1>3.</h1><h4>Gestiona una cuenta</h4>
+				<h4>Gestiona una cuenta</h4>
 				<p>Podrás gestionar nuestro capital conservando las utilidades pactadas de acuerdo a tus resultados.</p>
 			</article>
-		</div>
-		<div>
-			<h3>Utilidad Mensual Estimada*</h3>
-			<h2>USD $300 - $5.000</h2>
-			<h7>*Varía por cada trader, valores positivos no garantizados.</h7>
 		</div>
 	</section>
 	<footer>

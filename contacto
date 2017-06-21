@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="Trading Firm" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
+	<title>CS Capital | Contacto</title>
+</head>
+<body>
+	<header>
+		<div id="head">
+			<a href="index.html"><h1>CS CAPITAL</h1></a>
+			<ul>
+				<li><a href="Entrenamiento">Entrenamiento</a></li>
+				<li><a href="contacto">Contacto</a></li>
+			</ul>
+		</div>
+	</header>
+	<section>
+		<div>
+			<article>
+				<h1>Si no sabes, te enseñamos.</h1>
+				<h3>Contamos con un programa de capacitación para quienes quieren aprender trading, al terminarlo contarán con 3 meses de seguimiento en nuestro programa para participar por una cuenta financiada sin ningún costo adicional.</h3>
+				<p>Si quieres acceder a nuestro programa de capacitación, <a href="contacto">contáctanos</a>.</p>
+			</article>
+		</div>
+		<div>
+			
+		</div>
+		<div>
+			
+		</div>
+	</section>
+	<footer>
+		<!--
+		<div id="info">
+			<a href="#">Acerca De</a>
+		</div>
+		<div id="social">
+			<a target="_blank" href="http://wwww.facebook.com/ecoiner">
+				<img src="img/facebook.png" alt="Facebook">
+				<p>
+					Facebook
+				</p>
+			</a>			
+		</div>
+		-->
+		<div>
+			<p>© 2017 – CS CAPITAL S.A.S., Todos los derechos reservados.</p>
+			<p>No brindamos consejo ni asesoría de inversión.</p>
+		</div>
+	</footer>
+</body>

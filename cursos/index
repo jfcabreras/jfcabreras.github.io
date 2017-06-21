@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="Trading Firm" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
+	<title>CS Capital | Cursos</title>
+</head>
+<body>
+	<header>
+		<div id="head">
+			<a href="inicio"><h1>CS CAPITAL</h1></a>
+			<ul>
+				<li><a href="../index.html">Cerrar Sesión</a></li>
+			</ul>
+		</div>
+	</header>
+	<section>
+		<div>
+			<h1>Cursos</h1>
+			<ul>
+				<li><a href=""></a>Introducción al Trading y al Mercado Financiero</li>
+				<li>Fundamentales y configuración de NinjaTrader</li>
+				<li>Curso General de Futuros</li>
+			</ul>
+		</div>
+	</section>
+	<footer>
+		<!--
+		<div id="info">
+			<a href="#">Acerca De</a>
+		</div>
+		<div id="social">
+			<a target="_blank" href="http://wwww.facebook.com/ecoiner">
+				<img src="img/facebook.png" alt="Facebook">
+				<p>
+					Facebook
+				</p>
+			</a>			
+		</div>
+		-->
+		<div>
+			<p>© 2017 – CS CAPITAL S.A.S., Todos los derechos reservados.</p>
+			<p>No brindamos consejo ni asesoría de inversión.</p>
+		</div>
+	</footer>
+</body>
