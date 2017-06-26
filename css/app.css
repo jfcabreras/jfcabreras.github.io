@@ -134,7 +134,7 @@
 .hero-section {
   background: url("../img/trading.jpeg") 50% no-repeat;
   background-size: cover;
-  height: 50vh;
+  height: 52vh;
   text-align: center;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -191,7 +191,7 @@
 
 .marketing-site-hero {
   background: url("../img/aprende.jpg") top right no-repeat;
-  height: 47vh;
+  height: 50vh;
   background-size: cover;
   display: -webkit-flex;
   display: -ms-flexbox;
